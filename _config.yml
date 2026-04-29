@@ -1,0 +1,8 @@
+# Jekyll Configuration
+
+# Disable Jekyll processing
+jekyll: 
+  enabled: false
+
+# Configure GitHub Pages to serve HTML directly
+publish_dir: ./
